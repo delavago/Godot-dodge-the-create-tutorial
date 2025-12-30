@@ -1,0 +1,81 @@
+# Godot 4+ specific ignores
+. godot/
+.import/
+
+# Godot-specific files
+*.translation
+*.import
+*.md5
+
+# Exported executables
+*.exe
+*.pck
+*.dmg
+*.app
+*.zip
+*.apk
+*. ipa
+
+# Godot auto-generated files
+export. cfg
+export_presets.cfg
+
+# Mono-specific ignores (C#/Godot)
+.mono/
+data_*/
+mono_crash.*. json
+. vs/
+*.csproj
+*.sln
+
+# System/tool-specific
+.DS_Store
+. DS_Store?
+._*
+. Spotlight-V100
+. Trashes
+ehthumbs. db
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# IDEs and editors
+.vscode/
+. idea/
+*.swp
+*. swo
+*~
+.project
+.classpath
+.settings/
+
+# Build artifacts
+*. o
+*.pyc
+*. obj
+*.elf
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Backup files
+*.bak
+*.gho
+*. ori
+*.orig
+*.tmp
+
+# Audio source files (optional - keep if you want to track source files)
+# *.wav
+# *.ogg
+# *.mp3
+
+# Aseprite source files (optional)
+# *.aseprite
+# *. ase
