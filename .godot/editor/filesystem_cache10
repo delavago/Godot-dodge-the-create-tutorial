@@ -1,6 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1767049706
+::res://::1767292853
 icon.svg::CompressedTexture2D::4929743979009529078::1767048925::1767048969::1::::<><><>0<>0<>4c48f08f3b62ad8495fee2c3f8501b95<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.gd::GDScript::144961344907164325::1767149116::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::1837512915328591334::1767149116::0::1::::<><><>0<>0<><>::uid://cawupdwuww3w6::::res://art/playerGrey_up1.png<>uid://cchqy7kq67sj::::res://player.gd<>uid://b6ny4sh4bk140::::res://art/playerGrey_up2.png<>uid://wcjh1shds7od::::res://art/playerGrey_walk1.png<>uid://bt4kqe2pa42nk::::res://art/playerGrey_walk2.png
+README.md::TextFile::-1::1767105054::0::1::::<><><>0<>0<><>::
 ::res://art/::1767049706
 enemyFlyingAlt_1.png::CompressedTexture2D::2868303338838607834::1767049706::1767049706::1::::<><><>0<>0<>5edf0615f520d0c713a851c9516d4d7a<>res://.godot/imported/enemyFlyingAlt_1.png-559f599b16c69b112c1b53f6332e9489.ctex::
 enemyFlyingAlt_2.png::CompressedTexture2D::3764425287121003441::1767049706::1767049706::1::::<><><>0<>0<>fe84380ac95650aabc1a79b5955a39ed<>res://.godot/imported/enemyFlyingAlt_2.png-31dc7310eda6e1b721224f3cd932c076.ctex::
